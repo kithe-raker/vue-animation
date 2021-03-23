@@ -9,9 +9,13 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "matter-js": "^0.16.1",
+    "pathseg": "^1.2.0",
+    "poly-decomp": "^0.3.0",
     "vue": "^3.0.0"
   },
   "devDependencies": {
+    "@types/matter-js": "^0.14.11",
     "@vue/cli-plugin-babel": "~4.5.0",
     "@vue/cli-plugin-eslint": "~4.5.0",
     "@vue/cli-service": "~4.5.0",
